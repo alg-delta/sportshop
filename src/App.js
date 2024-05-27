@@ -50,7 +50,7 @@ function App() {
       <BrowserRouter basename="/sportshop">
         <Header />
         <Routes>
-          <Route path="/" element={<p>Main</p>} />
+          <Route path="/" element={<p></p>} />
           <Route
             path="/main"
             element={<Main products1={data1} products2={data2} add={add} />}

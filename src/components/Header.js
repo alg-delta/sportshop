@@ -20,7 +20,7 @@ export default function Header() {
     <div>
       <Navbar bg="warning" data-bs-theme="light">
         <Container>
-          <Navbar.Brand href="/home">Sport shop</Navbar.Brand>
+          <Navbar.Brand>Sport shop</Navbar.Brand>
           <Nav className="me-auto">
             <NavLink to="/main" className="nav-link">
               Main

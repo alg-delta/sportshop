@@ -25,7 +25,7 @@ const data1 = [
     name: "Volley",
     originalPrice: 600,
     discountedPrice: 300,
-    image: "Volley.jpg",
+    image: "volley.jpg",
   },
 ];
 

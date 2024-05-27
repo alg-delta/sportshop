@@ -22,7 +22,7 @@ export default function Header() {
         <Container>
           <Navbar.Brand>Sport shop</Navbar.Brand>
           <Nav className="me-auto">
-            <NavLink to="/" className="nav-link">
+            <NavLink to="/main" className="nav-link">
               Main
             </NavLink>
             <NavLink to="/home">
